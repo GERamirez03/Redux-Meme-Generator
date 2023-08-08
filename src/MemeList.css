@@ -1,0 +1,13 @@
+.Meme {
+    position: relative;
+}
+
+.Meme-top {
+    position: absolute;
+    top: 0;
+}
+
+.Meme-bottom {
+    position: absolute;
+    bottom: 0;
+}
